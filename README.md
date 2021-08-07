@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://bwolfenberger.github.io/portfolio/assets/benjiWolfenbergerResume.pdf](https://bwolfenberger.github.io/portfolio/assets/benjiWolfenbergerResume.pdf)
 
-- ⚡ Fun fact **I love boba and have tried over 20 places in the Bay area.**
+- ⚡ Fun fact **I love boba and have tried over 20 places in the Bay area. If you need a rec, I'm your guy 🧋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
