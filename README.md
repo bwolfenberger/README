@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Python, TypeScript, and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://bwolfenberger.github.io/portfolio/](https://bwolfenberger.github.io/portfolio/)
+- 👨‍💻 All of my projects are available on my [Github](https://bwolfenberger.github.io/portfolio/)
 
 - 📫 How to reach me **bwolfenberger@gmail.com**
 
-- 📄 Know about my experiences [https://bwolfenberger.github.io/portfolio/assets/benjiWolfenbergerResume.pdf](https://bwolfenberger.github.io/portfolio/assets/benjiWolfenbergerResume.pdf)
+- 📄 Know about my experiences from [My Resume](https://bwolfenberger.github.io/portfolio/assets/benjiWolfenbergerResume.pdf)
 
 - ⚡ Fun fact **I love boba and have tried over 20 places in the Bay area. If you need a rec, I'm your guy 🧋**
 
