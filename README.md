@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, TypeScript, and Next.js**
 
-- 👨‍💻 All of my projects are available on my [Github](https://bwolfenberger.github.io/portfolio/)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://bwolfenberger.github.io/portfolio/)
 
 - 📫 How to reach me **bwolfenberger@gmail.com**
 
