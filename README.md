@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benji!</h1>
-<h3 align="center">A passionate frontend developer who is always excited to learn!</h3>
+<h3 align="center">A passionate full stack engineer who is always excited to learn!</h3>
 
 - 🌱 I’m currently learning **Python, TypeScript, and Next.js**
 
